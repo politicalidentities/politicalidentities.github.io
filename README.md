@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to SNC's Political Identities Lab GitHub Page
+
+We will use this to track the project progress and statistical documents to be able to run analyses as a research team.
+
+If you have any questions please email Dr. Saavedra
+
+
+Below are still the basic instructions from GitHub.
 
 You can use the [editor on GitHub](https://github.com/politicalidentities/politicalidentities.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
