@@ -5,6 +5,9 @@ We will use this to track the project progress and statistical documents to be a
 If you have any questions please email Dr. Saavedra
 
 
+## Feel free to send me an invite if you have developed your own GitHub project
+
+
 Below are still the basic instructions from GitHub.
 
 You can use the [editor on GitHub](https://github.com/politicalidentities/politicalidentities.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
